@@ -2,7 +2,7 @@
 
 This is my first time building a full keyboard, although I have built a macropad before. It is a split keyboard, and I am building it to test out connection between two microcontrollers.
 
-##PCB
+## PCB
 
 This is my PCB for the keyboard, in this photo it is disconnected so I can make the case around it in onshpae.
 
