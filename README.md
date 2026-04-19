@@ -32,3 +32,9 @@ After I splitted it in Kicad I made my case. I paticularly like this design it l
 
  I also had to make to seperate models cause each of my keyboard sides are different. (heh)
 
+ ## Code
+
+ I just used the Zmk method and watched some out of date videos for this one
+ I used a bit of Claude for debugging and finding out what I should plug in where.
+ I also used AI for the keymaps since it is a lot of repeating work
+
